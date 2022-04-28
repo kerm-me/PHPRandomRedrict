@@ -7,6 +7,8 @@ DEMO：http://redirect.zhelper.net/?origin=virmach  跳转Virmach和Google
 
 ## 部署到Glitch
 
+https://glitch.com/
+
 [New Project] -> [Import form Github] -> paste "https://github.com/kerms5/PHPRandomRedrict" , after done, [Show] -> [In a New Window].
 
 ## 使用方式
